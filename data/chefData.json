@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "photo": "https://user-images.githubusercontent.com/66853064/235663167-d6ac5914-1651-42a9-9578-5a7b7b350506.png",
+    "photo_png": "https://user-images.githubusercontent.com/66853064/235955404-688b0d53-a3a1-41a1-9379-3233f47799a5.png",
+    "name": "Kim Yoon-jung",
+    "years_of_experience": 12,
+    "num_recipes": 80,
+    "likes": 1500,
+    "bio": "Kim Yoon-jung is a Korean chef from Seoul. She learned the art of cooking from her mother, who owned a small restaurant in the city. Kim specializes in traditional Korean dishes like kimchi jjigae and bibimbap, and has won several awards for her culinary skills.",
+    "recipes": [
+      {
+        "id": "1",
+        "name": "Bibimbap",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958920-a9f60bdb-2139-4f6b-bd22-d02b1e6c966c.png",
+        "ingredients": "cooked rice, sauteed vegetables, sliced beef, fried egg, gochujang (red chili pepper paste), sesame oil",
+        "cooking_method": "1. Cook rice and set aside. 2. Saute vegetables separately and set aside. 3. Cook sliced beef and set aside. 4. Fry an egg sunny-side up. 5. Arrange rice, vegetables, and beef in a bowl. 6. Place the egg on top. 7. Add gochujang and sesame oil to taste. 8. Mix well before eating.",
+        "rating": 5
+      },
+      {
+        "id": "2",
+        "name": "Japchae",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958918-47908fd7-8665-4bac-bf4f-59d6f3302740.jpg",
+        "ingredients": "sweet potato glass noodles, sliced beef, spinach, carrot, onion, shiitake mushrooms, garlic, soy sauce, sugar, sesame oil",
+        "cooking_method": "1. Soak the noodles in warm water for 30 minutes. 2. Cook the noodles in boiling water for 6-7 minutes. 3. Drain and rinse in cold water. 4. Saute beef and vegetables separately. 5. Combine everything in a large bowl. 6. Add soy sauce, sugar, and sesame oil to taste. 7. Mix well before serving.",
+        "rating": 4.5
+      },
+      {
+        "id": "3",
+        "name": "Kimchi Fried Rice",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958899-607460e3-bccc-41a0-be9e-4931c3d71f31.jpg",
+        "ingredients": "cooked rice, kimchi, bacon, scallions, eggs, soy sauce, sesame oil",
+        "cooking_method": "1. Heat up a pan and cook bacon until crispy. 2. Remove the bacon from the pan and set aside. 3. In the same pan, add chopped scallions and kimchi. 4. Add rice and stir well. 5. Crack eggs into the pan and scramble until cooked. 6. Add soy sauce and sesame oil to taste. 7. Top with crispy bacon before serving.",
+        "rating": 4.5
+      },
+      {
+        "id": "4",
+        "name": "Korean Fried Chicken",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958925-ac57b128-3312-4605-97e9-4eaa9352e5ff.jpg",
+        "ingredients": "chicken wings, flour, cornstarch, baking powder, garlic powder, soy sauce, gochujang (red chili pepper paste), honey",
+        "cooking_method": "1. Mix flour, cornstarch, baking powder, and garlic powder in a bowl. 2. Coat chicken wings in the flour mixture. 3. Heat oil in a deep fryer or pan. 4. Fry chicken wings for 10-12 minutes until crispy and golden brown. 5. In a separate bowl, mix soy sauce, gochujang, and honey to make the sauce. 6. Toss fried chicken wings in the sauce until well-coated. 7. Serve immediately.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "photo": "https://user-images.githubusercontent.com/66853064/235663241-ebc612fe-60fa-4145-876e-16074ba0bd7f.png",
+    "photo_png": "https://user-images.githubusercontent.com/66853064/235955418-83149ea6-cfcf-4d6f-b69f-18dfd7b1674e.png",
+    "name": "Lee Hyun-woo",
+    "years_of_experience": 15,
+    "num_recipes": 100,
+    "likes": 2000,
+    "bio": "Lee Hyun-woo is a Korean chef from Busan. He has been passionate about cooking since a young age and has worked in some of the top restaurants in South Korea. Lee specializes in seafood dishes and is known for his delicious grilled octopus and spicy squid stir-fry.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Japchae",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958918-47908fd7-8665-4bac-bf4f-59d6f3302740.jpg",
+        "ingredients": "sweet potato noodles, beef, spinach, carrots, onion, shiitake mushrooms, garlic, soy sauce, sugar, sesame oil",
+        "cooking_method": "Boil noodles, stir-fry beef and vegetables with garlic and soy sauce, mix all together with sugar and sesame oil.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Bulgogi",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958899-607460e3-bccc-41a0-be9e-4931c3d71f31.jpg",
+        "ingredients": "beef, soy sauce, sugar, garlic, sesame oil, green onions",
+        "cooking_method": "Marinate beef in soy sauce, sugar, garlic, and sesame oil, grill or stir-fry, and garnish with green onions.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Kimchi Jjigae",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958920-a9f60bdb-2139-4f6b-bd22-d02b1e6c966c.png",
+        "ingredients": "kimchi, pork belly, tofu,garlic, green onions, red pepper flakes",
+        "cooking_method": "Stir-fry pork belly and garlic, add kimchi and red pepper flakes, add water and boil, add tofu and green onions.",
+        "rating": 4.3
+      },
+      {
+        "id": 4,
+        "name": "Dak Galbi",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958925-ac57b128-3312-4605-97e9-4eaa9352e5ff.jpg",
+        "ingredients": "chicken, sweet potato, cabbage, carrots, rice cakes, gochujang sauce",
+        "cooking_method": "Stir-fry chicken with gochujang sauce, add vegetables and rice cakes, and continue to cook until everything is tender.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "photo": "https://user-images.githubusercontent.com/66853064/235663294-527e2436-5c2e-4404-8d88-7d558e412d95.png",
+    "photo_png": "https://user-images.githubusercontent.com/66853064/235955425-9309eac0-ab90-455f-ae7f-361c45323b7d.png",
+    "name": "Park Ji-hyun",
+    "years_of_experience": 8,
+    "num_recipes": 60,
+    "likes": 1200,
+    "bio": "Park Ji-hyun is a Korean chef from Incheon. She learned the art of cooking from her grandmother, who passed down traditional Korean recipes to her. Park specializes in fusion cuisine and is known for her unique dishes that combine Korean and Western flavors.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Jjimdak",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958920-a9f60bdb-2139-4f6b-bd22-d02b1e6c966c.png",
+        "ingredients": "chicken, potatoes, carrots, onions, green onions, dried red chili peppers, soy sauce, sugar, garlic, ginger, sesame oil",
+        "cooking_method": "1. Cut chicken into pieces, blanch and drain. 2. Stir-fry chicken, vegetables, and chili peppers with soy sauce and sugar. 3. Add water, garlic, and ginger, and simmer until the chicken is cooked. 4. Add sesame oil and green onions.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Bibimbap",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958918-47908fd7-8665-4bac-bf4f-59d6f3302740.jpg",
+        "ingredients": "rice, vegetables (spinach, carrots, bean sprouts, mushrooms, zucchini), beef, egg, gochujang (red chili pepper paste), sesame oil",
+        "cooking_method": "1. Cook rice and vegetables separately. 2. Stir-fry beef with soy sauce, sugar, and garlic. 3. Fry an egg. 4. Put rice in a bowl, top with vegetables, beef, and egg. 5. Serve with gochujang and sesame oil.",
+        "rating": 4.2
+      },
+      {
+        "id": 3,
+        "name": "Samgyetang",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958925-ac57b128-3312-4605-97e9-4eaa9352e5ff.jpg",
+        "ingredients": "chicken, glutinous rice, garlic, ginger, green onions, jujubes, ginseng, salt",
+        "cooking_method": "1. Clean and stuff chicken with glutinous rice, garlic, ginger, and jujubes. 2. Put stuffed chicken in a pot with enough water to cover it. 3. Boil the chicken for 30-40 minutes. 4. Add ginseng and green onions, and boil for another 10 minutes. 5. Serve with salt.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "photo": "https://user-images.githubusercontent.com/66853064/235663356-6c79bae3-74bf-4dd5-8aec-6f394b2b2987.png",
+    "photo_png": "https://user-images.githubusercontent.com/66853064/235955430-0f70195c-3256-4fb6-838e-6ac8314231ef.png",
+    "name": "Choi Min-ho",
+    "years_of_experience": 10,
+    "num_recipes": 70,
+    "likes": 1400,
+    "bio": "Choi Min-ho is a Korean chef from Jeju Island. He grew up on the island, surrounded by fresh seafood and local ingredients, which inspired him to pursue a career in cooking. Choi specializes in traditional Jeju cuisine, such as black pork belly and seafood stew.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Dakgalbi",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958925-ac57b128-3312-4605-97e9-4eaa9352e5ff.jpg",
+        "ingredients": "Chicken, Korean chili paste, soy sauce, sugar, garlic, ginger, rice cake, sweet potato, scallions",
+        "cooking_method": "Marinate chicken in a mixture of Korean chili paste, soy sauce, sugar, garlic, and ginger. Stir-fry chicken with rice cake, sweet potato, and scallions in a pan. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Japchae",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958899-607460e3-bccc-41a0-be9e-4931c3d71f31.jpg",
+        "ingredients": "Sweet potato noodles, beef, onion, carrot, spinach, shiitake mushrooms, garlic, soy sauce, sesame oil, sugar",
+        "cooking_method": "Soak sweet potato noodles in hot water until soft. Stir-fry beef with onion, carrot, spinach, and shiitake mushrooms in a pan. Add garlic, soy sauce, sesame oil, and sugar to the pan. Cook sweet potato noodles in boiling water and mix with the stir-fried beef and vegetables. Serve hot or cold.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Haemul Pajeon",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958918-47908fd7-8665-4bac-bf4f-59d6f3302740.jpg",
+        "ingredients": "Green onions, seafood (squid, shrimp, and/or oysters), flour, eggs, water, salt, sesame oil",
+        "cooking_method": "Mix flour, eggs, water, salt, and sesame oil in a bowl. Add chopped green onions and seafood to the mixture. Heat oil in a pan and pour in the mixture. Fry until the bottom is golden brown. Flip the pancake and fry the other side until crispy. Serve hot with dipping sauce.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "photo": "https://user-images.githubusercontent.com/66853064/235663406-c4983e18-81da-44fd-bbe9-5d51fc3e646f.png",
+    "photo_png": "https://user-images.githubusercontent.com/66853064/235955434-6b2f9725-8a6c-4dce-9d71-58a2a3088775.png",
+    "name": "Kim Eun-ji",
+    "years_of_experience": 7,
+    "num_recipes": 50,
+    "likes": 1000,
+    "bio": "Kim Eun-ji is a Korean chef from Daegu. She discovered her passion for cooking while studying abroad in France, where she learned to appreciate the importance of fresh ingredients and careful preparation. Kim specializes in French-Korean fusion cuisine and is known for her unique take on classics like bouillabaisse and coq au vin.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Dakgalbi",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958918-47908fd7-8665-4bac-bf4f-59d6f3302740.jpg",
+        "ingredients": "Chicken, Korean chili paste, soy sauce, sugar, garlic, ginger, rice cake, sweet potato, scallions",
+        "cooking_method": "Marinate chicken in a mixture of Korean chili paste, soy sauce, sugar, garlic, and ginger. Stir-fry chicken with rice cake, sweet potato, and scallions in a pan. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Japchae",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958920-a9f60bdb-2139-4f6b-bd22-d02b1e6c966c.png",
+        "ingredients": "Sweet potato noodles, beef, onion, carrot, spinach, shiitake mushrooms, garlic, soy sauce, sesame oil, sugar",
+        "cooking_method": "Soak sweet potato noodles in hot water until soft. Stir-fry beef with onion, carrot, spinach, and shiitake mushrooms in a pan. Add garlic, soy sauce, sesame oil, and sugar to the pan. Cook sweet potato noodles in boiling water and mix with the stir-fried beef and vegetables. Serve hot or cold.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Haemul Pajeon",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958925-ac57b128-3312-4605-97e9-4eaa9352e5ff.jpg",
+        "ingredients": "Green onions, seafood (squid, shrimp, and/or oysters), flour, eggs, water, salt, sesame oil",
+        "cooking_method": "Mix flour, eggs, water, salt, and sesame oil in a bowl. Add chopped green onions and seafood to the mixture. Heat oil in a pan and pour in the mixture. Fry until the bottom is golden brown. Flip the pancake and fry the other side until crispy. Serve hot with dipping sauce.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "photo": "https://user-images.githubusercontent.com/66853064/235663475-ac884c57-e60e-4671-b25a-7cfa55220695.png",
+    "photo_png": "https://user-images.githubusercontent.com/66853064/235955438-65d8e704-8099-4421-9e67-cd0bf556b10d.png",
+    "name": "Yoon Seo-yeon",
+    "years_of_experience": 9,
+    "num_recipes": 65,
+    "likes": 1300,
+    "bio": "Yoon Seo-yeon is a Korean chef from Gwangju. She has always been passionate about food and loves to experiment with new flavors and techniques. Yoon specializes in modern Korean cuisine and is known for her creative dishes. Her unique approach to blending traditional Korean ingredients with international flavors has earned her a loyal following among foodies in Korea and beyond. Yoon has over 9 years of experience in the culinary industry and has created over 65 original recipes.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Jjimdak",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958925-ac57b128-3312-4605-97e9-4eaa9352e5ff.jpg",
+        "ingredients": "chicken, potatoes, carrots, onions, green onions, dried red chili peppers, soy sauce, sugar, garlic, ginger, sesame oil",
+        "cooking_method": "1. Cut chicken into pieces, blanch and drain. 2. Stir-fry chicken, vegetables, and chili peppers with soy sauce and sugar. 3. Add water, garlic, and ginger, and simmer until the chicken is cooked. 4. Add sesame oil and green onions.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Bibimbap",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958920-a9f60bdb-2139-4f6b-bd22-d02b1e6c966c.png",
+        "ingredients": "rice, vegetables (spinach, carrots, bean sprouts, mushrooms, zucchini), beef, egg, gochujang (red chili pepper paste), sesame oil",
+        "cooking_method": "1. Cook rice and vegetables separately. 2. Stir-fry beef with soy sauce, sugar, and garlic. 3. Fry an egg. 4. Put rice in a bowl, top with vegetables, beef, and egg. 5. Serve with gochujang and sesame oil.",
+        "rating": 4.2
+      },
+      {
+        "id": 3,
+        "name": "Samgyetang",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235958918-47908fd7-8665-4bac-bf4f-59d6f3302740.jpg",
+        "ingredients": "chicken, glutinous rice, garlic, ginger, green onions, jujubes, ginseng, salt",
+        "cooking_method": "1. Clean and stuff chicken with glutinous rice, garlic, ginger, and jujubes. 2. Put stuffed chicken in a pot with enough water to cover it. 3. Boil the chicken for 30-40 minutes. 4. Add ginseng and green onions, and boil for another 10 minutes. 5. Serve with salt.",
+        "rating": 4.8
+      }
+    ]
+  }
+]
